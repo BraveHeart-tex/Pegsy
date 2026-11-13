@@ -9,6 +9,7 @@ Create domain docs through domain-modeling when terms or decisions are resolved.
 ## Layout
 
 This repo uses a single context:
+
 - `GLOSSARY.md`: shared domain vocabulary.
 - `docs/adr/`: architecture decision records.
 
